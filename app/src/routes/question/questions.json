@@ -1,0 +1,29 @@
+{
+    "Section1": {
+        "section-name": "Gestion des mots de passe",
+        "A1": {
+            "question": "Utilisez-vous des mots de passe uniques pour chaque site/compte?",
+            "reponse": 2,
+            "text-reponses": ["Vrai", "Faux"]
+        },
+        "B1": {
+            "question": "---?",
+            "reponse": 2,
+            "text-reponses": ["ertyui", "xcvbn,", "684fd"]
+        },
+        "B2": {
+            "question": "---?",
+            "reponse": 2,
+            "text-reponses": ["ertyui", "xcvbn,", "684fd"]
+        }    
+    },
+    "Section2": {
+        "section-name": "Phishing et emails frauduleux"
+    },
+    "Section3": {
+        "section-name": "Mise à jour et protection des appareils"
+    },
+    "Section4": {
+        "section-name": "Sauvegarde et récupération des données"
+    }
+}
