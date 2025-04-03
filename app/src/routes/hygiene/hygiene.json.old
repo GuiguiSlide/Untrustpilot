@@ -1,0 +1,111 @@
+{
+    "1":{
+        "question": "Nom de l'entreprise...",
+        "reponse":"Dua lipa",
+        "PropositionReponses": ["Dua lipa","Gotaga","hugo posey"]
+    },
+
+    "2":{
+        "question": "Secteur d'activité...",
+        "reponse":"Dua lipa",
+        "PropositionReponses": ["Dua lipa","hergonomie","washmashine"]
+    },
+
+    "3":{
+        "question": "nombre d'employés...",
+        "reponse":"non",
+        "PropositionReponses": ["1-5","6-20","21-50","51+"]
+    },
+    "4":{
+        "question": "Avez-vous une personne dédiée a l'informatique...",
+        "reponse":"",
+        "PropositionReponses": ["oui","non"]
+    },
+    "5":{
+        "question": "utilisez-vous des mots de passe unique...",
+        "reponse":"non",
+        "PropositionReponses": ["oui","non","je ne sais pas"]
+    },
+    "6":{
+        "question": "Vos mots de passe contiennent-ils au moins 12 caractères avec majuscules, minuscules, chiffres et caractères spéciaux ?",
+        "reponse":"non",
+        "PropositionReponses": ["non","oui"]
+    },
+    "7":{
+        "question": "Utilisez-vous un gestionnaire de mots de passe ?",
+        "reponse":"non",
+        "PropositionReponses": ["non","oui"]
+    },
+    "8":{
+        "question": "Activez-vous l'authentification à deux facteurs (2FA) lorsque c'est possible ?",
+        "reponse":"non",
+        "PropositionReponses": ["non","oui","je ne sais pas"]
+    },
+    "9":{
+        "question": "Les ordinateurs et téléphones de l'entreprise sont-ils protégés par un antivirus à jour ?",
+        "reponse":"non",
+        "PropositionReponses": ["oui","non","je ne sais pas"] 
+    },
+    "10":{
+        "question": "Effectuez-vous régulièrement les mises à jour des systèmes et logiciels ?",
+        "reponse":"non",
+        "PropositionReponses": ["oui","non","je ne sais pas"]
+    },
+    "11":{
+        "question": "Les connexions Wi-Fi utilisées sont-elles sécurisées par un mot de passe fort ?",
+        "reponse":"non",
+        "PropositionReponses": ["oui","non","je ne sais pas"]
+    },
+    "12":{
+        "question": "Verrouillez-vous systématiquement vos appareils lorsque vous vous absentez ?",
+        "reponse":"non",
+        "PropositionReponses": ["oui","non"]
+    },
+    "13":{
+        "question": "Avez-vous déjà suivi une formation en cybersécurité ?",
+        "reponse":"non",
+        "PropositionReponses": ["oui","non"]
+    },
+    "14":{
+        "question": "Sensibilisez-vous vos employés aux risques liés aux cyberattaques (phishing, ransomwares, etc.) ?",
+        "reponse":"non",
+        "PropositionReponses": ["oui","non"]
+    },
+    "15":{
+        "question": "Testez-vous régulièrement la vigilance de vos employés avec des simulations d'attaques (phishing, faux emails) ?",
+        "reponse":"non",
+        "PropositionReponses": ["oui","non"]
+    },
+    "16":{
+        "question": "Réalisez-vous des sauvegardes régulières de vos données ?",
+        "reponse":"non",
+        "PropositionReponses": ["oui","non","je ne sais pas"]
+    },
+    "17":{
+        "question": "Stockez-vous vos sauvegardes dans un endroit sécurisé et distinct du réseau principal ?",
+        "reponse":"non",
+        "PropositionReponses": ["oui","non","je ne sais pas"]
+    },
+    "18":{
+        "question": "Savez-vous comment restaurer vos données en cas d'attaque ou de panne ?",
+        "reponse":"non",
+        "PropositionReponses": ["oui","non"]
+    },
+    "19":{
+        "question": "Limitez-vous les accès aux fichiers sensibles uniquement aux personnes autorisées ? ",
+        "reponse":"non",
+        "PropositionReponses": ["oui","non","je ne sais pas"]
+    },
+    "20":{
+        "question": "Supprimez-vous rapidement les accès des employés quittant l'entreprise ?",
+        "reponse":"non",
+        "PropositionReponses": ["oui","non","je ne sais pas"]
+    },
+    "21":{
+        "question": "Disposez-vous d'un plan d'action en cas de cyberattaque ?",
+        "reponse":"non",
+        "PropositionReponses": ["oui","non","je ne sais pas"]
+    }
+
+    
+}

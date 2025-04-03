@@ -3,8 +3,13 @@
 @plugin '@tailwindcss/typography';
 
 @font-face {
-    font-family: 'Inter';
-    src: url(Inter_Font.ttf);
+    font-family: 'Monsterat';
+    src: url(Montserrat-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: 'IBMplexMono';
+    src: url(IBMPlexMono-Medium.ttf);
 }
 
 body{
@@ -12,5 +17,6 @@ body{
     margin: 0;
     width: 100%;
     height: 100%;
-    font-family: 'Inter';
+    font-family: 'Monsterat';
 }
+/*font text = Montserrat font title =IBM Plex Mono */
