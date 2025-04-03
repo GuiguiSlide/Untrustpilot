@@ -5,8 +5,8 @@ Cybersecurity prevention Website
 - Backend by Lilian Fischer (@SystemD3v)
 - Frontend by Guillaume Beaufort (@GuiguiSlide)
 # WEBSITE PREWIEW
-![first-page](https://github.com/GuiguiSlide/Untrustpilot/imgs/blob/main/screenshotunstrustpilot2.png?raw=true)
-![page-switcher](https://github.com/GuiguiSlide/Untrustpilot/imgs/blob/main/screenshotunstrustpilot3.png?raw=true)
-![description](https://github.com/GuiguiSlide/Untrustpilot/imgs/blob/main/screenshotunstrustpilot4.png?raw=true)
-![map](https://github.com/GuiguiSlide/Untrustpilot/imgs/blob/main/screenshotunstrustpilot5.png?raw=true)
+![first-page](https://github.com/GuiguiSlide/Untrustpilot/blob/main/imgs/screenshotunstrustpilot2.png)
+![page-switcher](https://github.com/GuiguiSlide/Untrustpilot/blob/main/imgs/screenshotunstrustpilot3.png)
+![description](https://github.com/GuiguiSlide/Untrustpilot/blob/main/imgs/screenshotunstrustpilot4.png)
+![map](https://github.com/GuiguiSlide/Untrustpilot/blob/main/imgs/screenshotunstrustpilot5.png)
 ![questions](https://github.com/GuiguiSlide/Untrustpilot/blob/main/imgs/screenshotunstrustpilot1.png)
